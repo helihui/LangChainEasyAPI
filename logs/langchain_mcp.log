@@ -1,0 +1,48 @@
+2025-06-06 09:35:15 - langchain_mcp - INFO - ✅ Agent设置完成，可用工具数量: 0
+2025-06-06 09:35:17 - langchain_mcp - INFO - ✅ 工具注册成功: google_search
+2025-06-06 09:35:17 - langchain_mcp - INFO - ✅ 工具注册成功: bing_search
+2025-06-06 09:35:17 - langchain_mcp - INFO - ✅ 工具注册成功: file_read
+2025-06-06 09:35:17 - langchain_mcp - INFO - ✅ 工具注册成功: file_write
+2025-06-06 09:35:17 - langchain_mcp - INFO - ✅ 工具注册成功: csv_analysis
+2025-06-06 09:35:17 - langchain_mcp - INFO - 🎉 工具注册完成，共注册 5 个工具
+2025-06-06 09:35:17 - langchain_mcp - INFO - 🚀 启动 LangChain + FastAPI + MCP 框架
+2025-06-06 15:42:40 - langchain_mcp - INFO - ✅ Agent设置完成，可用工具数量: 0
+2025-06-06 15:42:41 - langchain_mcp - INFO - ✅ 工具注册成功: google_search
+2025-06-06 15:42:41 - langchain_mcp - INFO - ✅ 工具注册成功: bing_search
+2025-06-06 15:42:41 - langchain_mcp - INFO - ✅ 工具注册成功: file_read
+2025-06-06 15:42:41 - langchain_mcp - INFO - ✅ 工具注册成功: file_write
+2025-06-06 15:42:41 - langchain_mcp - INFO - ✅ 工具注册成功: csv_analysis
+2025-06-06 15:42:41 - langchain_mcp - INFO - 🎉 工具注册完成，共注册 5 个工具
+2025-06-06 15:42:41 - langchain_mcp - INFO - 🚀 启动 LangChain + FastAPI + MCP 框架
+2025-06-06 15:43:02 - langchain_mcp - INFO - 🛑 关闭应用程序
+2025-06-06 15:43:24 - langchain_mcp - INFO - ✅ OpenAI LLM 初始化成功
+2025-06-06 15:43:24 - langchain_mcp - INFO - ✅ Anthropic LLM 初始化成功
+2025-06-06 15:43:24 - langchain_mcp - INFO - ✅ Agent设置完成，可用工具数量: 0
+2025-06-06 15:43:25 - langchain_mcp - INFO - ✅ 工具注册成功: google_search
+2025-06-06 15:43:25 - langchain_mcp - INFO - ✅ 工具注册成功: bing_search
+2025-06-06 15:43:25 - langchain_mcp - INFO - ✅ 工具注册成功: file_read
+2025-06-06 15:43:25 - langchain_mcp - INFO - ✅ 工具注册成功: file_write
+2025-06-06 15:43:25 - langchain_mcp - INFO - ✅ 工具注册成功: csv_analysis
+2025-06-06 15:43:25 - langchain_mcp - INFO - 🎉 工具注册完成，共注册 5 个工具
+2025-06-06 15:43:25 - langchain_mcp - INFO - 🚀 启动 LangChain + FastAPI + MCP 框架
+2025-06-06 15:43:28 - langchain_mcp - INFO - 🛑 关闭应用程序
+2025-06-06 15:43:41 - langchain_mcp - INFO - ✅ OpenAI LLM 初始化成功
+2025-06-06 15:43:41 - langchain_mcp - INFO - ✅ Anthropic LLM 初始化成功
+2025-06-06 15:43:41 - langchain_mcp - INFO - ✅ Agent设置完成，可用工具数量: 0
+2025-06-06 15:43:42 - langchain_mcp - INFO - ✅ 工具注册成功: google_search
+2025-06-06 15:43:42 - langchain_mcp - INFO - ✅ 工具注册成功: bing_search
+2025-06-06 15:43:42 - langchain_mcp - INFO - ✅ 工具注册成功: file_read
+2025-06-06 15:43:42 - langchain_mcp - INFO - ✅ 工具注册成功: file_write
+2025-06-06 15:43:42 - langchain_mcp - INFO - ✅ 工具注册成功: csv_analysis
+2025-06-06 15:43:42 - langchain_mcp - INFO - 🎉 工具注册完成，共注册 5 个工具
+2025-06-06 15:43:42 - langchain_mcp - INFO - 🚀 启动 LangChain + FastAPI + MCP 框架
+2025-06-06 15:43:55 - langchain_mcp - INFO - ✅ OpenAI LLM 初始化成功
+2025-06-06 15:43:55 - langchain_mcp - INFO - ✅ Anthropic LLM 初始化成功
+2025-06-06 15:43:55 - langchain_mcp - INFO - ✅ Agent设置完成，可用工具数量: 0
+2025-06-06 15:43:56 - langchain_mcp - INFO - ✅ 工具注册成功: google_search
+2025-06-06 15:43:56 - langchain_mcp - INFO - ✅ 工具注册成功: bing_search
+2025-06-06 15:43:56 - langchain_mcp - INFO - ✅ 工具注册成功: file_read
+2025-06-06 15:43:56 - langchain_mcp - INFO - ✅ 工具注册成功: file_write
+2025-06-06 15:43:56 - langchain_mcp - INFO - ✅ 工具注册成功: csv_analysis
+2025-06-06 15:43:56 - langchain_mcp - INFO - 🎉 工具注册完成，共注册 5 个工具
+2025-06-06 15:43:56 - langchain_mcp - INFO - 🚀 启动 LangChain + FastAPI + MCP 框架
